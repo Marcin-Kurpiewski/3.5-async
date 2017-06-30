@@ -1,0 +1,23 @@
+{
+  "name": "2.8-gif-search",
+  "version": "1.0.0",
+  "description": "GIPHY",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcin-Kurpiewski/3.5-async.git"
+  },
+  "author": "Marcin kurus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcin-Kurpiewski/3.5-async/issues"
+  },
+  "homepage": "https://github.com/Marcin-Kurpiewski/3.5-async#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
